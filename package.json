@@ -1,0 +1,23 @@
+{
+  "name": "monitor-server",
+  "version": "1.0.0",
+  "description": "for teach use line notify report server status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noob-studio/monitor-server.git"
+  },
+  "author": "freeweed",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/noob-studio/monitor-server/issues"
+  },
+  "homepage": "https://github.com/noob-studio/monitor-server#readme",
+  "dependencies": {
+    "monitor": "^0.6.10",
+    "request": "^2.81.0"
+  }
+}
