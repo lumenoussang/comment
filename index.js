@@ -1,7 +1,7 @@
 const Monitor = require('monitor');
 const request = require('request')
 const LOW_MEMORY_THRESHOLD = 100000000;
-const token = 'ZOEF0kIkwihPvsuBYOcDssyIWcYwsQ54sfOAxiR50XE';
+const token = 'DaJ3Y4J5hk1ZSwRF4C4qJK3D1QYfe7Hag5ptadU2PdG';
 
 var options = {
   probeClass: 'Process',
